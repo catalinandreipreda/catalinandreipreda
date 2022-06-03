@@ -1,18 +1,16 @@
 ### Hi there 👋, I'm Cătălin Preda
 #### Web Design & Development
-I am a Computer Science student interested in front-end development and design. My core values are curiosity and creativity.
+My programming journey started eight years ago with C++, got me studying Computer Science at the University of Essex, and eventually led me to dive deep into web development. I like working with the JavaScript ecosystem and React.js⚛️
 
-I have graphic design experience and I’m passionate about building great responsive UIs that create an engaging user experience.
+I am a lifelong technology and design enthusiast. I like understanding how things work and improving them! What really drives me is adding value to people's lives, especially with the software I build. I'm passionate about creating beautiful user interfaces that improve accessibility and deliver a great user experience! Generally excited about clean code, efficient software architecture and all things web dev 📱💻
 
 
-
--💻Front-end technologies: HTML, CSS, SASS, JS
+-💻Front-end technologies: React.js, JavaScript, HTML, CSS, SASS 
 
 -🖥 Programming languages: JavaScript, Python, Java, C++
 
--⚛️ I’m currently learning React.js 
 
-I am very excited to learn more about front-end frameworks, responsive UX/UI and building efficient design systems!
+I am very excited to learn more about front-end frameworks, responsive UX/UI and building efficient web applications
 
 
 <!--
