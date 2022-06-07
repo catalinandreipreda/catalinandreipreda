@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Cătălin Preda
+![linkedin banner](https://user-images.githubusercontent.com/93956840/172495168-99f3e84b-dd49-4285-9680-bafb575028ff.png)
+
 #### Web Design & Development
 My programming journey started eight years ago with C++, got me studying Computer Science at the University of Essex, and eventually led me to dive deep into web development. I like working with the JavaScript ecosystem and React.js⚛️
 
