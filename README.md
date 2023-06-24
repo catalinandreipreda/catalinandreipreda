@@ -7,7 +7,7 @@ My programming journey started eight years ago with C++, got me studying Compute
 I am a lifelong technology and design enthusiast. I like understanding how things work and improving them! What really drives me is adding value to people's lives, especially with the software I build. I'm passionate about creating beautiful user interfaces that improve accessibility and deliver a great user experience! Generally excited about clean code, efficient software architecture and all things web dev 📱💻
 
 
--💻Front-end technologies: React, TypeScript, Tailwind CSS
+-💻Front-end technologies: Nextjs, React, TypeScript, Tailwind CSS, HTML5, CSS
 
 -🖥 Programming languages: TypeScript, JavaScript, Python, Java, C++
 
