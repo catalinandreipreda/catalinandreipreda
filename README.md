@@ -1,16 +1,12 @@
 ### Hi there 👋, I'm Cătălin Preda
 ![linkedin banner](https://user-images.githubusercontent.com/93956840/172495168-99f3e84b-dd49-4285-9680-bafb575028ff.png)
 
-#### Web Design & Development
-My programming journey started eight years ago with C++, got me studying Computer Science at the University of Essex, and eventually led me to dive deep into web development. I like working with the JavaScript ecosystem and React.js⚛️
+#### Fullstack Developer
 
-I am a lifelong technology and design enthusiast. I like understanding how things work and improving them! What really drives me is adding value to people's lives, especially with the software I build. I'm passionate about creating beautiful user interfaces that improve accessibility and deliver a great user experience! Generally excited about clean code, efficient software architecture and all things web dev 📱💻
+I enjoy learning new stuff and understanding how things work, but for me it's about people not computers - I'm happiest when my code generates real value for users.
+I'm passionate about beautiful UI and accessible UX: I started volunteering in various graphic design roles then I got my first job as a Frontend Developer and now I'm working Fullstack with technologies like Next.js, Node or ASP .NET CORE
 
-
--💻Front-end technologies: Nextjs, React, TypeScript, Tailwind CSS, HTML5, CSS
-
--🖥 Programming languages: TypeScript, JavaScript, Python, Java, C++
-
+- 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/catalinandreipreda/)
 
 
 <!--
