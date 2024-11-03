@@ -6,6 +6,8 @@
 I enjoy learning new stuff and understanding how things work, but for me it's about people not computers - I'm happiest when my code generates real value for users.
 I'm passionate about beautiful UI and accessible UX: I started volunteering in various graphic design roles then I got my first job as a Frontend Developer and now I'm working Fullstack with technologies like Next.js, Node or ASP .NET CORE
 
+Other interests include game development, computer graphics and AI
+
 - 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/catalinandreipreda/)
 
 
