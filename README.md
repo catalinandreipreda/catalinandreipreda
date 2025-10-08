@@ -8,7 +8,8 @@
 #### About me
 
 I love coding and learning about tech, but for me it's more about people not computers - I want my code to have real impact and help people!
-I focus on solving (and avoiding) problems, not translating tickets to code.
+
+I focus on solving real-world problems, not translating tickets to code.
 
 #### Background
 I'm passionate about beautiful UI and accessible UX: I started volunteering in various graphic design roles then I got my first job as a Frontend Developer and now I'm working as a Full-stack Developer. I'm interested in every layer of software development from feature planning, to UX research and UI design, building scalable systems or DevOps.
